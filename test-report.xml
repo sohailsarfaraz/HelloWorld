@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testExecutions version="1">
+  <file path="/var/www/html/Projects/my-app/src/App.test.tsx">
+    <testCase name="renders learn react link" duration="32"/>
+  </file>
+</testExecutions>
